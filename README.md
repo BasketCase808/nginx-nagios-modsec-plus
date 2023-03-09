@@ -1,5 +1,5 @@
 # Nginx + PHP
-##Nagios + ModSec + Nwaf + Brotli + GeoIP2 + SecurityHeaders + HeadersMore + SysGuard + PageSpeed + CookieFlags + TestCookie + CookieLimit + VTS
+## Nagios + ModSec + Nwaf + Brotli + GeoIP2 + SecurityHeaders + HeadersMore + SysGuard + PageSpeed + CookieFlags + TestCookie + CookieLimit + VTS
 
 Forked: Need to update with own bits
 ## Content
