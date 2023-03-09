@@ -4,11 +4,28 @@ Forked: Need to update with own bits
 
 ## Content
 
-- Nagios with SSL auto signed certificate
-- Nginx
-- PHP 7.3 with FPM and FCGI wrapper
-- Squid proxy (disabled by default)
-- Squidguard with blacklists (disabled by default)
+__Extra Modules:
+- ngx_http_brotli_filter_module.so
+- ngx_http_geoip2_module.so
+- ngx_http_security_headers_module.so
+- ngx_http_waf_module.so
+- ngx_http_brotli_static_module.so
+- ngx_http_headers_more_filter_module.so
+- ngx_http_sysguard_module.so
+- ngx_pagespeed.so
+- ngx_http_cookie_flag_filter_module.so
+- ngx_http_modsecurity_module.so
+- ngx_http_testcookie_access_module.so
+- ngx_http_cookie_limit_req_module.so
+- ngx_http_naxsi_module.so
+- ngx_http_vhost_traffic_status_module.so
+
+__Pre Existing Forked
+- Nagios with SSL auto signed certificate (vanilla source available as dynamic module - needs checking)
+- Nginx 1.18.0.8
+- PHP 7.3 with FPM and FCGI wrapper (will update to 8.0|8.1 in near future)
+- Squid proxy (disabled by default)->(+need to check)
+- Squidguard with blacklists (disabled by default)->(+need to check)
 
 ## Description
 
