@@ -5,6 +5,15 @@
 ### PROJECT UNDER CONTRUCTION - NOUT GOIN ON ATM --INIT
 
 Forked: Need to update with own bits
+
+Current:
+- Bins and all .so modules successfully built.
+- Nginx handled by SystemD running stable. Currently testing modules.
+- Once all is checked and in order, will clean up build file, dirs, deps and finalise with release .deb.
+- First time doing this so if i fxxx it up.. well nout new :]
+        
+       
+
 ## Content
 
 __Extra Modules:
