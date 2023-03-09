@@ -1,10 +1,7 @@
-# Nginx
-## ++ Nagios + ModSec + Nwaf + Brotli + GeoIP2 + SecurityHeaders + HeadersMore + SysGuard + PageSpeed + CookieFlags + TestCookie + CookieLimit + VTS
-
-## PHP 7.3 (8.+ soon)
+# Nginx + PHP
+##Nagios + ModSec + Nwaf + Brotli + GeoIP2 + SecurityHeaders + HeadersMore + SysGuard + PageSpeed + CookieFlags + TestCookie + CookieLimit + VTS
 
 Forked: Need to update with own bits
-
 ## Content
 
 __Extra Modules:
